@@ -23,6 +23,10 @@ header {
   height: 36px;
 }
 
+.logo-link {
+  text-decoration: none;
+}
+
 nav {
   width: 130px;
 }
