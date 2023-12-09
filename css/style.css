@@ -20,9 +20,9 @@ header {
 .logo {
   background-color: #555;
   color: #fff;
-  padding: 5px 20px;
-  width: 103px;
-  height: 36px;
+  padding: 3px 20px;
+  width: 138px;
+  height: 42px;
 }
 
 .logo-link {
@@ -144,8 +144,9 @@ footer {
   .logo {
     background-color: #555;
     color: #fff;
-    width: 100px;
-    height: 35px;
+    width: 120px;
+    height: 36px;
+    font-size: 1.6rem;
   }
 
   header {
@@ -191,7 +192,6 @@ footer {
     margin-left: 20px;
   }
 
-  /** ここだけ答えを見ました。*/
   .main-img {
     height: calc(100vh - 60px);
   }
