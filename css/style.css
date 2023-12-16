@@ -101,7 +101,7 @@ h2 {
 }
 
 .bicycle-text {
-  margin-top: 8px;
+  margin-top: 2px;
   text-align: center;
 }
 
@@ -114,7 +114,6 @@ h2 {
 
 .bicycle-content > li {
   width: 31%;
-  margin-left: -30px;
 }
 
 .bicycle-img {
@@ -177,13 +176,16 @@ footer {
     margin: 0 auto;
   }
 
-  .bicycle-img,
   .bicycle-text {
-    margin-left: -27px;
+    margin-bottom: 20px;
   }
 }
 
 @media screen and (max-width: 500px) {
+  .profile {
+    margin-left: 0;
+  }
+
   .bicycle-content > li {
     width: 95%;
   }
